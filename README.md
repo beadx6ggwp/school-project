@@ -46,7 +46,7 @@
 
 ## 1.簡單的了解HTML與JS的繪圖
 
-1. 請你們先到我寫的網站了解一些基礎 : [here](http://davidhsu666.com/category/series/codingmath)
+1. 先到我寫的網站了解一些HTML與JS的基礎 : [here](http://davidhsu666.com/category/series/codingmath)
 
 
 2. 了解完基本的JS跟HTML後，接著看udemy的線上課程:<br>
