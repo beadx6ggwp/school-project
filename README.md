@@ -23,6 +23,8 @@
 
 - 與其他程式語言大大不同的是，JavaScript 沒有任何輸入或輸出的觀念。它是被設計成在一個宿主 (host) 環境下執行的腳本 (script) 語言，所以任何與外界通訊的方式，都是宿主環境的責任。瀏覽器是最常見的宿主環境，不過有些程式也有 JavaScript 解釋器，如 Adobe Photoshop、Unity等等。
 
+可以先從這官網的新手教學開始[官方JS教學]https://developer.mozilla.org/zh-TW/docs/Web/JavaScript
+
 補充:
 >MDN官方對JS的詳細介紹:<br>
 [重新介紹 JavaScript](https://goo.gl/KRM8q9)<br>
